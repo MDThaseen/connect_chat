@@ -1,1 +1,1 @@
-# connect_chat
+This is a MERN stack Project.
