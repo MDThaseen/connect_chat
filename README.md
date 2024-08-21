@@ -1,6 +1,6 @@
-This is a MERN stack Project.
-Technology used is Mern + Socket.io + TailwindCSS + Daisy UI
-Authentiaction & Authorization with JWT
-Real time Messaging
-Error handeling
-Deploy link: https://connect-messenger.onrender.com/login
+This is a MERN stack Project.<br>
+Technology used is Mern + Socket.io + TailwindCSS + Daisy UI<br>
+Authentiaction & Authorization with JWT<br>
+Real time Messaging<br>
+Error handeling<br>
+Deploy link: https://connect-messenger.onrender.com/login<br>
